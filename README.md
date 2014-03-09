@@ -26,22 +26,21 @@ Notebook Viewer Static Page Views
 
 **Stochastic Processes Reading List**
 
-- [Buffons Needle Sim](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Buffons_Needle_Sim.ipynb)
 - [Conditional Expectation Gaussian](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_Expectation_Gaussian.ipynb)
 - [Conditional expectation MSE](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_expectation_MSE.ipynb)
 - [Conditional expectation MSE Ex](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_expectation_MSE_Ex.ipynb)
 - [Conditional Expectation Projection](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_Expectation_Projection.ipynb)
-- [Example CSVs](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Example_CSVs.ipynb)
-- [Expectation Maximization](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Expectation_Maximization.ipynb)
-- [Gauss Markov](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Gauss_Markov.ipynb)
-- [Inverse Projection Constrained Optimization](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Inverse_Projection_Constrained_Optimization.ipynb)
-- [Markov chains](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Markov_chains.ipynb)
-- [Maximum likelihood](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Maximum_likelihood.ipynb)
 - [Projection](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Projection.ipynb)
 - [Projection Ex](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Projection_Ex.ipynb)
 - [Projection mdim](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Projection_mdim.ipynb)
-- [Rectangle Wedge Tail Decomposition](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Rectangle_Wedge_Tail_Decomposition.ipynb)
+- [Inverse Projection Constrained Optimization](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Inverse_Projection_Constrained_Optimization.ipynb)
+- [Gauss Markov](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Gauss_Markov.ipynb)
+- [Maximum likelihood](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Maximum_likelihood.ipynb)
+- [Expectation Maximization](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Expectation_Maximization.ipynb)
+- [Markov chains](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Markov_chains.ipynb)
+- [Buffons Needle Sim](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Buffons_Needle_Sim.ipynb)
 - [Sampling Monte Carlo](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Sampling_Monte_Carlo.ipynb)
+- [Rectangle Wedge Tail Decomposition](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Rectangle_Wedge_Tail_Decomposition.ipynb)
 
 **Misc.**
 
