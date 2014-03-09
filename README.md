@@ -8,9 +8,7 @@ IPython notebooks.
 Notebook Viewer Static Page Views
 -----------------------------------
 
-Signal Processing Reading List
-...................................
-
+**Signal Processing Reading List**
 
 - [Sampling Theorem](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Sampling_Theorem.ipynb)
 - [Sampling Theorem Part 2 v2](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Sampling_Theorem_Part_2_v2.ipynb)
@@ -25,8 +23,7 @@ Signal Processing Reading List
 - [Filtering Part3](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Filtering_Part3.ipynb)
 - [Compressive Sampling](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Compressive_Sampling.ipynb)
 
-Stochastic Processes Reading List
-..............................................
+**Stochastic Processes Reading List**
 
 - [Buffons Needle Sim](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Buffons_Needle_Sim.ipynb)
 - [Conditional Expectation Gaussian](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_Expectation_Gaussian.ipynb)
@@ -45,7 +42,6 @@ Stochastic Processes Reading List
 - [Rectangle Wedge Tail Decomposition](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Rectangle_Wedge_Tail_Decomposition.ipynb)
 - [Sampling Monte Carlo](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Sampling_Monte_Carlo.ipynb)
 
-Misc.
-.....
+**Misc.**
 
 - [Example CSVs](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Example_CSVs.ipynb)
