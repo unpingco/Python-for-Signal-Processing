@@ -2,17 +2,16 @@ IPython notebooks for Python for Signal Processing Book.
 
 This book is [available as a blog](http://python-for-signal-processing.blogspot.com) where you can read the formatted notebooks and comment further.
 
-
-Static Page Views
----------------------
+Notebook Viewer Static Page Views
+-----------------------------------
 
 - [Buffons Needle Sim](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Buffons_Needle_Sim.ipynb)
 - [Compressive Sampling](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Compressive_Sampling.ipynb)
 - [Conditional Expectation Gaussian](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_Expectation_Gaussian.ipynb)
 - [Conditional expectation MSE](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_expectation_MSE.ipynb)
-- [Conditional expectation MSE Ex.ipynb](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_expectation_MSE_Ex.ipynb)
-- [Conditional Expectation Projection.ipynb](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_Expectation_Projection.ipynb)
-- [Example CSVs.ipynb](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Example_CSVs.ipynb)
+- [Conditional expectation MSE Ex](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_expectation_MSE_Ex.ipynb)
+- [Conditional Expectation Projection](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Conditional_Expectation_Projection.ipynb)
+- [Example CSVs](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Example_CSVs.ipynb)
 - [Expectation Maximization](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Expectation_Maximization.ipynb)
 - [Exponential splines](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Exponential_splines.ipynb)
 - [Filtering](http://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Filtering.ipynb)
