@@ -3,7 +3,7 @@ Jupyter notebooks for Python 2.7 for Signal Processing Book.
 This book is [available as a
 blog](http://python-for-signal-processing.blogspot.com) where you can read the
 formatted notebooks and comment further. The following are the **draft**
-IPython notebooks. A subset of the blog and the content here is available
+Jupyter notebooks. A subset of the blog and the content here is available
 in printed form on [Amazon](http://www.amazon.com/Python-Signal-Processing-Featuring-Notebooks/dp/3319013416).
 
 Notebook Viewer Static Page Views
