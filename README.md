@@ -1,4 +1,4 @@
-IPython notebooks for Python for Signal Processing Book.
+Jupyter notebooks for Python 2.7 for Signal Processing Book.
 
 This book is [available as a
 blog](http://python-for-signal-processing.blogspot.com) where you can read the
