@@ -1,3 +1,4 @@
+1st modification
 Jupyter notebooks for Python 2.7 for Signal Processing Book.
 
 This book is [available as a
