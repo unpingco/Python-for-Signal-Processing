@@ -1,3 +1,4 @@
+Change from master
 Conflict from master branch
 Mod from master
 Copyright by cpulover
