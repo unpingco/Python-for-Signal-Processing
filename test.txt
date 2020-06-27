@@ -1,3 +1,4 @@
+Change before rebase conflict
 More changes
 Change from master
 Conflict from master branch
