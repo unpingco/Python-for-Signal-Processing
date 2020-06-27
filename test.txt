@@ -1,5 +1,6 @@
 Conflict from master branch
 Mod from master
+Copyright by cpulover
 mod on newbranch
 1st mod
 This file is created on Github
