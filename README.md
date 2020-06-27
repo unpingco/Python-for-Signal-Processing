@@ -1,3 +1,4 @@
+New feature from myfeature
 Mod from simple-changes
 Copyright by someone
 1st modification
