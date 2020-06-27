@@ -1,3 +1,4 @@
+After rebase conflict
 More conflict from master
 Change before rebase conflict
 More changes
